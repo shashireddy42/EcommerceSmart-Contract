@@ -1,2 +1,2 @@
 # EcommerceSmart-Contract
-By using solidity 
+A smart contract which users can sell and buy the products by using ether 
